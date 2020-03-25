@@ -48,6 +48,6 @@ tenniscourt
 This project is a research projects which contains various features extraction techniques like spatial level features and temporal features.
 This features are fused together,tested together as well independently.
 
-Various accuracy enchancing techniques like augmentation and feature level fusion are used
+Various accuracy enchancing techniques like augmentation and feature level fusion of dct and lbp are used
 Project contains various ipynb notebooks tried on the dataset.
 
