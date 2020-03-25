@@ -3,7 +3,7 @@ Ucmerced dataset is a 21 class land use image dataset meant for research purpose
 
 There are 100 images for each of the following classes:
 
-\nagricultural
+agricultural
 airplane
 baseball
 beach
@@ -29,4 +29,5 @@ This project is a research projects which contains various features extraction t
 This features are fused together,tested together as well independently.
 
 Various accuracy enchancing techniques like augmentation and feature level fusion are used
+Project contains various ipynb notebooks tried on the dataset.
 
