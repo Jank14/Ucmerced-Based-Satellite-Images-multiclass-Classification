@@ -3,9 +3,9 @@ Ucmerced dataset is a 21 class land use image dataset meant for research purpose
 
 There are 100 images for each of the following classes:
 
-agricultural
+\nagricultural
 airplane
-baseballdiamond
+baseball
 beach
 buildings
 chaparral
