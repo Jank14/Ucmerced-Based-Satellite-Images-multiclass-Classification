@@ -1,1 +1,0 @@
-Here lbp and dct features are fused on matrix level and cnn is applied on generated feature.
