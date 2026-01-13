@@ -1,7 +1,7 @@
 # Ucmerced-Based-Satellite-Images-multiclass-Class
 Ucmerced dataset is a 21 class land use image dataset meant for research purposes.
 
-There are 100 images for each of the following classes:
+There are 100 images for each of the following classes :
 
 agricultural
 
